@@ -1,10 +1,16 @@
 _repo: Notes-on-the-History-of-Argentine-Independence_47838
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47838-h/images/cover.jpg
 creator:
   author:
     agent_name: Whittemore, C. W.
     gutenberg_agent_id: '44493'
     url: http://www.gutenberg.org/2009/agents/44493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47838#Notes-on-the-History-of-Argentine-Independence
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
 identifiers:
